@@ -31,3 +31,5 @@ An end-to-end Business Intelligence solution built in Microsoft Power BI to anal
   - **DAX** for calculated measures and advanced analytics
 
 This solution delivers interactive, self-service reporting that helps stakeholders monitor performance, identify growth opportunities, and make data-driven decisions in real time.
+
+![Image](https://github.com/user-attachments/assets/88da1407-1473-4fb7-88be-31eb2008fa28)
